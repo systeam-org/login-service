@@ -1,2 +1,2 @@
-# login-service
-The repository for sign-up and login service REST APIs.
+# user-service
+The repository for user sign-up and login service REST APIs.
